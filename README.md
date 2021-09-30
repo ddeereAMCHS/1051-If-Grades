@@ -4,6 +4,11 @@
 - Create a program called `Grades.java`
 - Prompt the user for a number grade 
 - Print the letter grade based on what the user inputs
+  - A: 90 <= x <= 100
+  - B: 80 <= x < 90
+  - C: 75 <= x < 80
+  - D: 70 <= x < 75
+  - F: x < 70
 - Commit and push your changes
 
 ## Part 2
