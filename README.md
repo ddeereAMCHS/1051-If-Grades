@@ -19,3 +19,9 @@
   - The number grade cannot be greater than 100.
 - Commit your changes with a descriptive commit message
 - Push your changes
+
+## Part 3
+- Update `Grades.java` to use only one if statement and no logical operators
+  - You can use multiple else-if statements
+- Commit your changes with a descriptive commit message
+- Push your changes
