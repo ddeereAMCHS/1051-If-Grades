@@ -25,3 +25,9 @@
   - You can use multiple else-if statements
 - Commit your changes with a descriptive commit message
 - Push your changes
+<br/>
+<br/>
+Example Input:<br/>
+95<br/>
+Example Output:<br/>
+A
