@@ -29,7 +29,7 @@
 - Push your changes
 <br/>
 
-Example Input:\
+***Example Input:***\
 95\
-Example Output:\
+***Example Output:***\
 A
