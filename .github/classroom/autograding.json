@@ -5,7 +5,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "100",
-      "output": "A",
+      "output": "Letter grade: A",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -15,7 +15,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "90",
-      "output": "A",
+      "output": "Letter grade: A",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -25,7 +25,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "80",
-      "output": "B",
+      "output": "Letter grade: B",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -35,7 +35,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "75",
-      "output": "C",
+      "output": "Letter grade: C",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -45,7 +45,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "70",
-      "output": "D",
+      "output": "Letter grade: D",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -55,7 +55,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "60",
-      "output": "F",
+      "output": "Letter grade: F",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -65,7 +65,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "0",
-      "output": "F",
+      "output": "Letter grade: F",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -95,7 +95,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "95",
-      "output": "A",
+      "output": "Letter grade: A",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -105,7 +105,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "89",
-      "output": "B",
+      "output": "Letter grade: B",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -115,7 +115,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "79",
-      "output": "C",
+      "output": "Letter grade: C",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -125,7 +125,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "74",
-      "output": "D",
+      "output": "Letter grade: D",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -135,7 +135,7 @@
       "setup": "javac Grades.java",
       "run": "java Grades",
       "input": "69",
-      "output": "F",
+      "output": "Letter grade: F",
       "comparison": "included",
       "timeout": 10,
       "points": null
