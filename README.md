@@ -10,10 +10,11 @@
   - C: 75 <= x < 80
   - D: 70 <= x < 75
   - F: x < 70
-- If the grade is too small, output:
-  - The number grade cannot be negative.
-- If the grade is too large, output:
-  - The number grade cannot be greater than 100.
+- Make sure the number grade is in the range `0 <= x <= 100`
+  - If the grade is too small, output:
+    - The number grade cannot be negative.
+  - If the grade is too large, output:
+    - The number grade cannot be greater than 100.
 
 ***Example Input:***\
 95\
