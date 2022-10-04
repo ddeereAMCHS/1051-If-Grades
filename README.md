@@ -32,4 +32,4 @@
 ***Example Input:***\
 95\
 ***Example Output:***\
-A
+Letter grade: A
