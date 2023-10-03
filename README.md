@@ -1,6 +1,6 @@
 # Grades
 
-## Due: Wed 10/5 at 11:59 PM
+## Due: Wed 10/4 at 11:59 PM
 
 - Create a program called `Grades.java`
 - Prompt the user for a number grade 
